@@ -1,2 +1,2 @@
 # Data-Science
-Potential future career
+includes python programs, sql queries
